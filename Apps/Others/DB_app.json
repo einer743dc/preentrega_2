@@ -1,0 +1,14 @@
+[
+    {
+        "client_ID": 0,
+        "name": "Einer",
+        "password": "1234",
+        "carts_list": [1,2,3]
+    },
+    {
+        "client_ID": 1,
+        "name": "Maria",
+        "password": "1234",
+        "carts_list": [3,4,2]
+    }
+]
